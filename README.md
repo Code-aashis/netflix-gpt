@@ -5,8 +5,10 @@
 - Create React app
 - Configured Tailwindd
 - Header
+- Routing
 - Login Form
 - Sign Up Form
+- Form Validation
 
 # Features
 
